@@ -12,7 +12,7 @@ function NavBar({
   setSelectedSpecialist,
   mode,
   toggleTheme
-}) {
+      }) {
   const navigate = useNavigate();
   const location = useLocation();
 
